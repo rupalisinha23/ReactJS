@@ -1,8 +1,6 @@
 
 
 
-
-
 export const initialState ={
     dishes:DISHES,
     comments:COMMENTS,
